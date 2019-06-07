@@ -18,6 +18,6 @@ describe('The question list', ()=>{
     })
     
     it.skip('Should be the meaning of life', ()=>{
-        expect(2+2).toEqual(434 );
+        expect(2+2).toEqual(434);
     })
 })
